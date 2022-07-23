@@ -22,7 +22,7 @@ while True:
         print('\nResultado = ', resultado)
     else:
         operador = None
-        print('\nOperadoração inválida.')
+        print('\nOperação inválida.')
         input('\nPressione qualquer tecla para encerrar.')
         break
     print('\nDeseja armazenar o resultado (MS)?')
